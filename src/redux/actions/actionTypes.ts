@@ -1,0 +1,7 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+
+export const FETCH_DATA = 'FETCH_DATA';
+export const CLEAR_DATA = 'CLEAR_DATA';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_FAILURE = 'FETCH_DATA_FAILURE';
